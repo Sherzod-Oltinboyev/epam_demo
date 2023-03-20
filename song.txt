@@ -4,3 +4,9 @@ when is your birthday
 how can you do this
 
 Changes to the git gui
+
+commit
+new
+
+ammend a commit
+revert changes
